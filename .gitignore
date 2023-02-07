@@ -1,0 +1,21 @@
+/.idea/
+*.pyc
+*.db
+/project/
+/dist
+*.egg-info
+.DS_Store
+/build
+*#
+*~
+.coverage
+/htmlcov/
+*.orig
+tmp
+venv/
+.venv/
+.tox/
+
+# Sphinx documentation
+docs/_build/
+
